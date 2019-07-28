@@ -1,0 +1,26 @@
+Rules:
+Are of three types
+learn the sequence of execution 
+
+Group:
+Grouping people with single attribute
+It is static we need to refresh 
+
+Population:
+Grouping people with multiple attribute
+Population is dynamin no need to refresh if user enty happen
+
+Workgroups:
+We can restrict sailpoint access to Identities,Application, Intelligence and Setup based on the role.
+Capabilities means rights/permission type
+We can grant extra Capabilities to particular user even though if he is in limited access workgroup, through identity warehouse-> select user->'user rights' option and grant access. 
+
+Workgroup is usefull only to restrict access to source/sailpoint not target?
+When we create any user like ramu, what/how the password will be generate?
+How to grant access to the target application?
+What is service accounts? 
+What is SSL on adding domain in AD
+
+
+
+ 
