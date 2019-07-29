@@ -1,0 +1,4 @@
+learning git 
+git add filename
+git commit -a -m to add and commit the changes
+
