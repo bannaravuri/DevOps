@@ -1,5 +1,0 @@
-learning git 
-git add filename
-git commit -a -m to add and commit the changes
-
-Adding new line to merge to 30julybr2 instead of branch
